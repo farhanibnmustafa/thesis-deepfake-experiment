@@ -1,0 +1,6 @@
+[submodule "frameworks/DF_RAP"]
+	path = frameworks/DF_RAP
+	url = https://github.com/ZOMIN28/DF_RAP.git
+[submodule "frameworks/iccv25_faceshield"]
+	path = frameworks/iccv25_faceshield
+	url = https://github.com/kuai-lab/iccv25_faceshield.git
